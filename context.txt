@@ -1,0 +1,19 @@
+I run a a command center that responds to tickets created by team members in my company. 
+The tickets are incident tickets, some of the topics shift left, example:
+PASSWORD
+BLOCKED
+ACCESS
+ACCOUNT
+LOCKED OUT
+LOGIN
+USER CREATION
+PASSWORD RESET
+SERVER RESET
+DRIVE
+NOT SIGNING IN
+INVALID CREDENTIAL
+RESTART
+
+While some other topics include automation opportunities.
+
+
